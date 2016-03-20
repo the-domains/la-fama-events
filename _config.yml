@@ -1,0 +1,28 @@
+name: La Fama Events
+favicon: null
+layout_spectrum: 0.12005200562998652
+typography_spectrum: 0.3920370889827609
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.3124411082826555
+  lightness: 0.38239182624965906
+  saturation: 0.49208916281349957
+  rhythmicContrast: 0.32002059556543827
+purpose: []
