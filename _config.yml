@@ -1,7 +1,7 @@
 name: La Fama Events
 favicon: null
 layout_spectrum: 0.48305
-typography_spectrum: 0.74547
+typography_spectrum: 0.48288
 title: La Fama Events Seattle
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f6fbf5'
     - '#000000'
-    - '#f70001'
-    - '#4b4d4a'
-    - '#b5b7b4'
+    - '#fefefe'
+    - '#00fff6'
+    - '#ff003c'
+    - '#b76f01'
   brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
